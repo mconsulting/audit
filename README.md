@@ -1,6 +1,4 @@
-# audit
-
-[Jimmy Patronis nominates Peter Collins and ](https://github.com/mconsulting/legal/blob/9a6551f597976aaa8c5278487e6cf51c2a379125/docs/2020-12-16_Jimmy%20Patronis%20Makes%20Nominations%20to%20the%20State%20Board%20of%20Administration%E2%80%99s%20Investment%20Advisory%20Council%20-%20Florida%20Daily.html)
+I'm# audit
 
 
 Jimmy Patronis Makes Nominations to the State Board of Administration’s Investment Advisory Council
